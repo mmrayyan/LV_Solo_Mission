@@ -30,8 +30,8 @@ LV_Solo_Mission/
 │           └── Milestone_3.png
 │
 ├── PCB/
-│   ├── AltiumSTM32
-│   └── Screenshots
+│   ├── AltiumSTM32/
+│   └── Screenshots/
 │
 └── MohamedMohsen_LVSoloMission.pdf
 ```
