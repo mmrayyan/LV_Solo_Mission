@@ -117,17 +117,10 @@ The third milestone uses two STM32F103C8 microcontrollers communicating over SPI
 
 # PCB
 
-PCB project files will be added here once completed.
+## Due to licensing issues, I was not able to finish this project on time.
 
----
+![PCB Schematic](PCB/Screenshots/Schematic.png)
 
-## Tools Used
+![2D View](PCB/Screenshots/PCB_2D.png)
 
-- STM32CubeIDE
-- STM32F103C8
-- Proteus
-- STM32 HAL
-- GPIO
-- ADC
-- UART
-- SPI
+![3D View](PCB/Screenshots/PCB_3D.png)
